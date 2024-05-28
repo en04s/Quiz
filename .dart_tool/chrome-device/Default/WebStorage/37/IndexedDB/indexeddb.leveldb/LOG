@@ -1,0 +1,4 @@
+2024/05/28-09:21:04.493 2f50 Reusing MANIFEST C:\Users\ALUNO\AppData\Local\Temp\flutter_tools.f334ca97\flutter_tools_chrome_device.47407504\Default\WebStorage\37\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/05/28-09:21:04.493 2f50 Recovering log #3
+2024/05/28-09:21:04.494 2f50 Reusing old log C:\Users\ALUNO\AppData\Local\Temp\flutter_tools.f334ca97\flutter_tools_chrome_device.47407504\Default\WebStorage\37\IndexedDB\indexeddb.leveldb/000003.log 
+2024/05/28-09:21:04.508 90 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
